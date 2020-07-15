@@ -6,7 +6,9 @@ welcome to [Spencer17'Blog](https://spencer17x.github.io/)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-[![Spencer17x's github stats](https://github-readme-stats.vercel.app/api?username=Spencer17x&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Spencer17x's github stats](https://github-readme-stats.vercel.app/api?username=Spencer17x&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Spencer17x/Spencer17x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
