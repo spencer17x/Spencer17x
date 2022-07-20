@@ -1,5 +1,5 @@
 ### Hi here 👋
-welcome to [Spencer17'Blog](https://spencer17x.github.io/)
+Welcome to [Spencer17'Blog](https://spencer17x.github.io/)
 
 **Languages and Tools:**
 
